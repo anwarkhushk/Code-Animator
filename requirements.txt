@@ -1,0 +1,6 @@
+ollama
+pyttsx3
+moviepy
+numpy
+pillow
+requests
