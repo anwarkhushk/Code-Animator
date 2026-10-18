@@ -4,3 +4,6 @@ moviepy
 numpy
 pillow
 requests
+customtkinter
+opencv-python
+pygame
